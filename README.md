@@ -2,7 +2,7 @@
 	<a href="https://github.com/LeinneSW/PureEntities"><img src="https://i.imgur.com/wSQCLmT.png" title="source: imgur.com"/></a>
 	<b>The best plugin for PMMP to implement entities with AI</b>
 </p>
-Development: **[LeinneSW](https://github.com/LeinneSW)** (before milk0417)
+Development: <b><a href="https://github.com/LeinneSW">LeinneSW</a></b> (before milk0417)
 
 PureEntities is a Plug-in that makes implement the entity.  
 This Plug-in provides a simple Entity AI.
